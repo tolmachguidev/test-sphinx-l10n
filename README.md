@@ -1,1 +1,1 @@
-"# test-sphinx-l10n" 
+# test-sphinx-l10n

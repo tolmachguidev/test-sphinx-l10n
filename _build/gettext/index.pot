@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, ABC
+# This file is distributed under the same license as the l10n test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: l10n test 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 18:08+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:7
+msgid "Welcome to l10n test's documentation!"
+msgstr ""
+
+#: ../../index.rst:14
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt nunc ipsum, vel viverra enim rutrum ut. Nullam accumsan ante dolor, eu auctor sapien faucibus eget. Aenean hendrerit commodo lacus, vel maximus diam laoreet vel. Aenean id rutrum mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur arcu nunc, convallis cursus iaculis eget, auctor non est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue tellus nec urna congue ullamcorper."
+msgstr ""
+
+#: ../../index.rst:16
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia leo eu risus viverra auctor. Vivamus eget felis placerat, ornare nibh eget, rhoncus nibh. Sed malesuada lectus ut egestas lacinia. Nunc scelerisque iaculis felis vitae bibendum. Integer vestibulum rhoncus diam, ut rhoncus nisl faucibus eu. Vestibulum gravida gravida egestas. Proin vitae ultrices eros. Integer id molestie ligula. Nulla facilisi. Maecenas nec diam tortor. Nam aliquam placerat risus, eu tempor ante hendrerit vitae. In et lectus nec odio aliquam sagittis. Phasellus eget hendrerit quam."
+msgstr ""
+
+#: ../../index.rst:20
+msgid "Vestibulum turpis tortor, rutrum ac metus a, scelerisque interdum mauris. Pellentesque in tortor rhoncus, ultricies nibh feugiat, sodales ex. In dui arcu, blandit sit amet pellentesque a, rutrum eget leo. Vivamus viverra aliquam nunc quis aliquet. In hac habitasse platea dictumst. Mauris eleifend est vel est convallis, eu commodo orci laoreet. Nulla lobortis sagittis diam."
+msgstr ""
+
+#: ../../index.rst:24
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:26
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:27
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:28
+msgid ":ref:`search`"
+msgstr ""
+
